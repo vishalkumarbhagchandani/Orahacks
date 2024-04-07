@@ -4,6 +4,7 @@ import L from 'leaflet'; // Import Leaflet
 import 'leaflet/dist/leaflet.css'; // Import Leaflet CSS
 import OpenAI from "openai";
 
+const OPENAI_API_KEY = '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';
 
 const openai = new OpenAI({
   apiKey: OPENAI_API_KEY,
