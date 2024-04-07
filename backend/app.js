@@ -9,7 +9,7 @@ const { emitToSubscribers } = require("./socket");
 const app = express();
 
 const openai = new OpenAI({
- 
+  apiKey: "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",
   dangerouslyAllowBrowser: true,
 });
 app.use(cors());
