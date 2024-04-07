@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Hemanth",
+    "lastName": "V",
+    "email": "hemanthvhs@gmail.com",
+    "password": "test",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "firstName": "Admin",
+    "lastName": "AD",
+    "email": "admin@gmail.com",
+    "password": "test",
+    "role": "administrator",
+    "isActive": true
+  },
+  {
+    "firstName": "Moderator",
+    "lastName": "MD",
+    "email": "moderator@gmail.com",
+    "password": "test",
+    "role": "moderator",
+    "isActive": true
+  }
+]
